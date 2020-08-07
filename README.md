@@ -1,10 +1,9 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://github.com/siddharth25pandey/siddharth25pandey.github.io/blob/master/sid.jpg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
 ### Hello Folks 👋I am [Siddharth Pandey](https://siddharth25pandey.github.io)
-[![](https://img.shields.io/badge/-@siddharth25pandey-%23181717?style=flat-square&logo=github)](https://github.com/siddharth25pandey)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/siddharth25pandey/)
   <a href="mailto:siddharth25pandey@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 <p>I am a Sophomore at Indian Institute of Information Technology,Sri City (India) </p>
