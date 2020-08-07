@@ -10,6 +10,7 @@
 ### Currently I am focussed on Competitive Coding, Data Science, ML & Front-End Development
 ### My Coding Platforms
 <a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="100">
+ <br>
  <a href="https://www.hackerrank.com/siddharth25pand1"><img src="https://github.com/siddharth25pandey/siddharth25pandey.github.io/blob/master/images/h.jpg" alt="Smiley face" height ="100" width="100"></a>
  ### My Blog
  <a href="https://sid293571351.wordpress.com"><img src="https://github.com/siddharth25pandey/siddharth25pandey.github.io/blob/master/images/sidblog logo.PNG" alt="Smiley face" height ="100" width="100"></a>
