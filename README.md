@@ -6,8 +6,6 @@
 ### Hello Folks 👋I am [Siddharth Pandey](https://siddharth25pandey.github.io)
 <p>I am a Sophomore at Indian Institute of Information Technology,Sri City (India) </p>
 <p>Currently I am focussed on Competitive Coding, Data Science, ML & Front-End Development</p>
-[![Linkedin Badge](https://img.shields.io/badge/-siddharth25pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddharth25pandey/)](https://www.linkedin.com/in/siddharth25pandey/)
-[![Gmail Badge](https://img.shields.io/badge/-siddharth25pandey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharth25pandey@gmail.com)](mailto:siddharth25pandey@gmail.com)
 
 ## ⚡ Technologies
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
