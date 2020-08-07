@@ -25,7 +25,7 @@
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
 
-<div><p>My profile overview: </p></div>
+### My profile overview: 
 
 ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=siddharth25pandey&show_icons=true)
 <br />
