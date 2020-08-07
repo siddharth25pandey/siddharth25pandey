@@ -6,9 +6,14 @@
 ## Hello Folks 👋I am [Siddharth Pandey](https://siddharth25pandey.github.io)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/siddharth25pandey/)
   <a href="mailto:siddharth25pandey@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-  <a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" width="3.5%"></a>
 ### I am a Sophomore at [Indian Institute of Information Technology,Sri City](http://www.iiits.ac.in), India
 ### Currently I am focussed on Competitive Coding, Data Science, ML & Front-End Development
+### My Coding Platforms
+<a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" width="5%">
+ <a href="https://www.hackerrank.com/siddharth25pand1"><img src="images/h.jpg" alt="Smiley face" width="5%"></a>
+ ### My Blog
+ <a href="https://sid293571351.wordpress.com"><img src="images/sidblog logo.PNG" alt="Smiley face" width="5%"></a>
+
   
 ## ⚡ Technologies
 ![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
