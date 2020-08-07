@@ -9,6 +9,10 @@
 <p>I am a Sophomore at Indian Institute of Information Technology,Sri City (India) </p>
 <p>Currently I am focussed on Competitive Coding, Data Science, ML & Front-End Development</p>
 
+#### 📫 How to reach me:   
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/siddharth25pandey/)
+  <a href="mailto:siddharth25pandey@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+
 ## ⚡ Technologies
 ![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
