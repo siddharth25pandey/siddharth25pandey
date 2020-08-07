@@ -4,6 +4,8 @@
 </p>
 
 ### Hello Folks 👋I am [Siddharth Pandey](https://siddharth25pandey.github.io)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/siddharth25pandey)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=linkdin)](https://github.com/siddharth25pandey)
 <p>I am a Sophomore at Indian Institute of Information Technology,Sri City (India) </p>
 <p>Currently I am focussed on Competitive Coding, Data Science, ML & Front-End Development</p>
 
