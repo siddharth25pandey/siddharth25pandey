@@ -8,7 +8,7 @@
 <p>Currently I am focussed on Competitive Coding, Data Science, ML & Front-End Development</p>
 
 ## ⚡ Technologies
-![++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
 ![](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
