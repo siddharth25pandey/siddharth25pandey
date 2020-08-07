@@ -8,8 +8,8 @@
 <p>Currently I am focussed on Competitive Coding, Data Science, ML & Front-End Development</p>
 
 ## ⚡ Technologies
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -28,7 +28,7 @@
 ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=siddharth25pandey&show_icons=true)
 <br />
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth25pandey=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth25pandey&show_icons=true)
 
 
 
