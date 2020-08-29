@@ -11,6 +11,7 @@
 ### My Coding Platforms
 <a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="100">
  <a href="https://www.hackerrank.com/siddharth25pand1"><img src="https://github.com/siddharth25pandey/siddharth25pandey.github.io/blob/master/images/h.jpg" alt="Smiley face" height ="100" width="100"></a>
+ [![SIDDHARTH PANDEY's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/siddharth25pandey)
  ### My Blog
  <a href="https://sid293571351.wordpress.com"><img src="https://github.com/siddharth25pandey/siddharth25pandey.github.io/blob/master/images/sidblog logo.PNG" alt="Smiley face" height ="100" width="100"></a>
 
