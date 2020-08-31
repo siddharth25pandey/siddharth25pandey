@@ -12,7 +12,7 @@
 ### I am a Sophomore at [Indian Institute of Information Technology,Sri City](http://www.iiits.ac.in), India
 ### Currently I am focussed on Competitive Coding, Data Science, ML & Front-End Development
 ### My Coding Platforms
-<a href="https://codeforces.com/profile/siddharth_25"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodeforces.com%2F&psig=AOvVaw3Q4_5XjWWIrcj9z5JIYA5Y&ust=1598957559737000&source=images&cd=vfe&ved=2ahUKEwi-o5Kco8XrAhXQ8DgGHfHCAIoQjRx6BAgAEAc" alt="Smiley face" height="100" width="100"></a>
+<a href="https://codeforces.com/profile/siddharth_25"><img src="https://github.com/siddharth25pandey/siddharth25pandey.github.io/blob/master/images/cf.png" alt="Smiley face" height="100" width="100"></a>
 <a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="100">
  <a href="https://www.hackerrank.com/siddharth25pand1"><img src="https://github.com/siddharth25pandey/siddharth25pandey.github.io/blob/master/images/h.jpg" alt="Smiley face" height ="100" width="100"></a>
 
