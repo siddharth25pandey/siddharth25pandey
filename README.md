@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://github.com/siddharth25pandey/siddharth25pandey.github.io/blob/master/sid.jpg" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KDwug-8e--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/460112/491744fe-9069-4ab5-8fd4-aba4498bf1bd.jpg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
@@ -14,8 +14,8 @@
 ### My Coding Platforms
 <a href="https://codeforces.com/profile/siddharth_25"><img src="https://sta.codeforces.com/s/17425/images/codeforces-logo-with-telegram.png" alt="Smiley face" height="100" width="100"></a>
 <a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="100">
- <a href="https://www.hackerrank.com/siddharth25pand1"><img src="https://github.com/siddharth25pandey/portfolio/blob/master/images/h.jpg" alt="Smiley face" height ="100" width="100"></a>
- <a href="https://app.codesignal.com/profile/siddharth166"><img src="https://github.com/siddharth25pandey/portfolio/blob/master/images/code.png" alt="Smiley face" height="100" width="100"></a>
+ <a href="https://www.hackerrank.com/siddharth25pand1"><img src="https://s3.amazonaws.com/sr-marketplace-prod/wp-content/uploads/2015/08/hackerrank.jpg" alt="Smiley face" height ="100" width="100"></a>
+ <a href="https://app.codesignal.com/profile/siddharth166"><img src="https://codesignal.com/wp-content/uploads/2020/11/CoodeSignal_Logo_Long_Blue.svg" alt="Smiley face" height="100" width="100"></a>
 
  ### My Blog
  <a href="https://sid293571351.wordpress.com"><img src="https://sid293571351.files.wordpress.com/2020/05/cropped-sidblog-logo.png" alt="Smiley face" height ="100" width="100"></a>
