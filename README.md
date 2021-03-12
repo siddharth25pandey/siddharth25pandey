@@ -18,7 +18,7 @@
  <a href="https://app.codesignal.com/profile/siddharth166"><img src="https://github.com/siddharth25pandey/portfolio/blob/master/images/code.png" alt="Smiley face" height="100" width="100"></a>
 
  ### My Blog
- <a href="https://sid293571351.wordpress.com"><img src="https://github.com/siddharth25pandey/portfolio/blob/master/images/sidblog logo.PNG" alt="Smiley face" height ="100" width="100"></a>
+ <a href="https://sid293571351.wordpress.com"><img src="https://sid293571351.files.wordpress.com/2020/05/cropped-sidblog-logo.png" alt="Smiley face" height ="100" width="100"></a>
 
   
 ## ⚡ Technologies
