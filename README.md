@@ -10,7 +10,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="SIDDHARTH PANDEY's DEV Profile" width="5%">
 </a>
 ### I am a Sophomore at [Indian Institute of Information Technology,Sri City](http://www.iiits.ac.in), India
-### Currently I am focussed on Competitive Coding, Data Science, ML & Front-End Development
+### Currently I am focussed on Competitive Coding, Data Science, ML & Full-Stack Web Development
 ### My Coding Platforms
 <a href="https://codeforces.com/profile/siddharth_25"><img src="https://sta.codeforces.com/s/17425/images/codeforces-logo-with-telegram.png" alt="Smiley face" height="100" width="100"></a>
 <a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="100">
