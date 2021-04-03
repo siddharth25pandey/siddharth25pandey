@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KDwug-8e--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/460112/491744fe-9069-4ab5-8fd4-aba4498bf1bd.jpg" width="10% height="10%"align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KDwug-8e--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/460112/491744fe-9069-4ab5-8fd4-aba4498bf1bd.jpg" width="100% height="100%"align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
