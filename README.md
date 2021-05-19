@@ -4,7 +4,7 @@
 </p>
 
 ## Hello Folks 👋I am [Siddharth Pandey](https://siddharth25pandey.github.io)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/siddharth25pandey/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/siddharth25pandey/)
   <a href="mailto:siddharth25pandey@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
   <a href="https://dev.to/siddharth25pandey">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="SIDDHARTH PANDEY's DEV Profile" width="5%">
