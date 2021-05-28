@@ -1,5 +1,5 @@
 <p align="center">
- [![Header](SIDDHARTH PANDEY.png "Header")](https://siddharth25pandey.github.io/)
+ [![Header](https://github.com/siddharth25pandey/siddharth25pandey/blob/master/SIDDHARTH%20PANDEY.png "Header")](https://siddharth25pandey.github.io/)
  <h2 align="center">Profile</h2>
 </p>
 
