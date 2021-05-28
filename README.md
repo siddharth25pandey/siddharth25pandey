@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="SIDDHARTH PANDEY.png" alt="Profile" />
+ [![Header](SIDDHARTH PANDEY.png "Header")](https://siddharth25pandey.github.io/)
  <h2 align="center">Profile</h2>
 </p>
 
