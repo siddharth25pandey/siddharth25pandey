@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="SIDDHARTH PANDEY.png" width="100% height="100%"align="center" alt="Github Readme Stats" />
+ <img width="100px" src="SIDDHARTH PANDEY.png" alt="Profile" />
  <h2 align="center">Profile</h2>
 </p>
 
