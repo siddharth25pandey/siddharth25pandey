@@ -42,7 +42,7 @@
 ### My profile overview: 
 
 <a href="https://github.com/siddharth25pandey/siddharth25pandey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth5pandey&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth25pandey&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/siddharth25pandey/siddharth25pandey">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharth25pandey&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Siddharth's GitHub Stats" />
