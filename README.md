@@ -1,7 +1,7 @@
 
  [![Header](https://github.com/siddharth25pandey/siddharth25pandey/blob/master/SIDDHARTH%20PANDEY.png "Header")](https://siddharth25pandey.github.io/)
  <h1 align="center">Hi 👋, I'm Siddharth Pandey</h1>
-<h3 align="center">I am a Pre-Final Year Student at Indian Institute of Information Technology, SriCity currently undertaking my Bachelors in Computer Science and Engineering. I was the Data Science Intern at Numyard and Machine Learning Engineer at Omdena. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies.</h3>
+<h3 align="center">I am a Pre-Final Year Student at [Indian Institute of Information Technology] (http://www.iiits.ac.in), SriCity currently undertaking my Bachelor's in Computer Science and Engineering. I was the Data Science Intern at Numyard and Machine Learning Engineer at Omdena. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth25pandey" alt="siddharth25pandey" /></a> </p>
 
@@ -9,19 +9,17 @@
 
 - 🌱 I’m currently learning **React, Nodejs, GCP**
 
-- 📫 How to reach me  
-- <a href="mailto:siddharth25pandey@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 📫 Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/siddharth25pandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="siddharth25pandey" height="30" width="40" /></a>
-<a href="https://twitter.com/siddharth_iiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="siddharth_iiit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siddharth25pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="siddharth25pandey" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/siddharth_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddharth_25" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/siddharth25pand1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="siddharth25pand1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/siddharth_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="siddharth_25" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sid_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="sid_25" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/siddharth1616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="siddharth1616" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/siddharth_25/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="siddharth_25/profile" height="30" width="40" /></a>
+ <a href="mailto:siddharth25pandey@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/siddharth25pandey/)
+<a href="https://codeforces.com/profile/siddharth_25"><img src="https://sta.codeforces.com/s/17425/images/codeforces-logo-with-telegram.png" alt="Smiley face" height="100" width="100"></a>
+<a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="100">
+ <a href="https://www.hackerrank.com/siddharth25pand1"><img src="https://s3.amazonaws.com/sr-marketplace-prod/wp-content/uploads/2015/08/hackerrank.jpg" alt="Smiley face" height ="100" width="100"></a>
+ <a href="https://app.codesignal.com/profile/siddharth166"><img src="https://codesignal.com/wp-content/uploads/2020/11/CoodeSignal_Logo_Long_Blue.svg" alt="Smiley face" height="100" width="100"></a>
+
+ ### My Blog
+ <a href="https://sid293571351.wordpress.com"><img src="https://sid293571351.files.wordpress.com/2020/05/cropped-sidblog-logo.png" alt="Smiley face" height ="100" width="100"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
