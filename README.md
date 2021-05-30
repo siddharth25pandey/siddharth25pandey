@@ -12,10 +12,9 @@
  <p align="left">
  <a href="mailto:siddharth25pandey@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
  <a href="ttps://www.linkedin.com/in/siddharth25pandey/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/> </a>
- <p align="left"> <a href="https://twitter.com/siddharth_iiit" target="blank"><img src="https://img.shields.io/twitter/follow/siddharth_iiit?logo=twitter&style=for-the-badge" alt="siddharth_iiit" /></a> </p>
  <a href="https://dev.to/siddharth25pandey">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="SIDDHARTH PANDEY's DEV Profile" width="5%">
- <br>
+ <p align="left"> <a href="https://twitter.com/siddharth_iiit" target="blank"><img src="https://img.shields.io/twitter/follow/siddharth_iiit?logo=twitter&style=for-the-badge" alt="siddharth_iiit" /></a> </p>
 <a href="https://codeforces.com/profile/siddharth_25"><img src="https://sta.codeforces.com/s/17425/images/codeforces-logo-with-telegram.png" alt="Smiley face" height="100" width="100"></a>
 <a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="100">
  <a href="https://www.hackerrank.com/siddharth25pand1"><img src="https://s3.amazonaws.com/sr-marketplace-prod/wp-content/uploads/2015/08/hackerrank.jpg" alt="Smiley face" height ="100" width="100"></a>
