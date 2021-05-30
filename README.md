@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **React, Nodejs, GCP**
 
-- 📫 How to reach me  <a href="mailto:siddharth25pandey@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
+- 📫 How to reach me  
+- <a href="mailto:siddharth25pandey@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/siddharth25pandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="siddharth25pandey" height="30" width="40" /></a>
