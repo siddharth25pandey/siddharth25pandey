@@ -17,11 +17,11 @@
  <br>
 <h3 align="left">Coding Platforms</h3>
  <p align="left">
-<a href="https://codeforces.com/profile/siddharth_25"><img src="https://sta.codeforces.com/s/17425/images/codeforces-logo-with-telegram.png" alt="Smiley face" height="100" width="100"></a>
+<a href="https://codeforces.com/profile/siddharth_25"><img src="https://sta.codeforces.com/s/17425/images/codeforces-logo-with-telegram.png" alt="Smiley face" height="100" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="100">
- <a href="https://www.hackerrank.com/siddharth25pand1"><img src="https://s3.amazonaws.com/sr-marketplace-prod/wp-content/uploads/2015/08/hackerrank.jpg" alt="Smiley face" height ="100" width="100"></a>
- <a href="https://app.codesignal.com/profile/siddharth166"><img src="https://codesignal.com/wp-content/uploads/2020/11/CoodeSignal_Logo_Long_Blue.svg" alt="Smiley face" height="100" width="100"></a>
-<a href="https://sid293571351.wordpress.com"><img src="https://sid293571351.files.wordpress.com/2020/05/cropped-sidblog-logo.png" alt="Smiley face" height ="100" width="100"></a>
+ <a href="https://www.hackerrank.com/siddharth25pand1"><img src="https://s3.amazonaws.com/sr-marketplace-prod/wp-content/uploads/2015/08/hackerrank.jpg" alt="Smiley face" height ="100" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://app.codesignal.com/profile/siddharth166"><img src="https://codesignal.com/wp-content/uploads/2020/11/CoodeSignal_Logo_Long_Blue.svg" alt="Smiley face" height="100" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sid293571351.wordpress.com"><img src="https://sid293571351.files.wordpress.com/2020/05/cropped-sidblog-logo.png" alt="Smiley face" height ="100" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
