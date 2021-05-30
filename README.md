@@ -1,7 +1,7 @@
 
  [![Header](https://github.com/siddharth25pandey/siddharth25pandey/blob/master/SIDDHARTH%20PANDEY.png "Header")](https://siddharth25pandey.github.io/)
  <h1 align="center">Hi 👋, I'm Siddharth Pandey</h1>
-<h3 align="center">I am a Pre-Final Year Student at [Indian Institute of Information Technology](http://www.iiits.ac.in), SriCity currently undertaking my Bachelor's in Computer Science and Engineering. I was the Data Science Intern at Numyard and Machine Learning Engineer at Omdena. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies.</h3>
+<h3 align="center">I am a Pre-Final Year Student at <a href="http://www.iiits.ac.in">Indian Institute of Information Technology]</a>, SriCity currently undertaking my Bachelor's in Computer Science and Engineering. I was the Data Science Intern at Numyard and Machine Learning Engineer at Omdena. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth25pandey" alt="siddharth25pandey" /></a> </p>
 
@@ -10,9 +10,9 @@
 - 🌱 I’m currently learning **React, Nodejs, GCP**
 
 <h3 align="left"> 📫 Connect with me:</h3>
-<p align="left">
  <a href="mailto:siddharth25pandey@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
- <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>(https://www.linkedin.com/in/siddharth25pandey/)
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/siddharth25pandey/)
+ <p align="left">
 <a href="https://codeforces.com/profile/siddharth_25"><img src="https://sta.codeforces.com/s/17425/images/codeforces-logo-with-telegram.png" alt="Smiley face" height="100" width="100"></a>
 <a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="100">
  <a href="https://www.hackerrank.com/siddharth25pand1"><img src="https://s3.amazonaws.com/sr-marketplace-prod/wp-content/uploads/2015/08/hackerrank.jpg" alt="Smiley face" height ="100" width="100"></a>
