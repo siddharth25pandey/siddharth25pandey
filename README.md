@@ -4,14 +4,17 @@
 <h3 align="center">I am a Pre-Final Year Student at <a href="http://www.iiits.ac.in">Indian Institute of Information Technology</a>, SriCity currently undertaking my Bachelor's in Computer Science and Engineering. I was the Data Science Intern at Numyard and Machine Learning Engineer at Omdena. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth25pandey" alt="siddharth25pandey" /></a> </p>
-
-
+<br>
+ 
+![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddharth25pandey.siddharth25pandey)
 
 <h3 align="left"> 📫 Connect with me:</h3>
  <p align="left">
  <a href="mailto:siddharth25pandey@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
  <a href="ttps://www.linkedin.com/in/siddharth25pandey/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/> </a>
  <p align="left"> <a href="https://twitter.com/siddharth_iiit" target="blank"><img src="https://img.shields.io/twitter/follow/siddharth_iiit?logo=twitter&style=for-the-badge" alt="siddharth_iiit" /></a> </p>
+ <a href="https://dev.to/siddharth25pandey">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="SIDDHARTH PANDEY's DEV Profile" width="5%">
  <br>
 <a href="https://codeforces.com/profile/siddharth_25"><img src="https://sta.codeforces.com/s/17425/images/codeforces-logo-with-telegram.png" alt="Smiley face" height="100" width="100"></a>
 <a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="100">
@@ -31,7 +34,6 @@
  <br>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth25pandey&show_icons=true&locale=en&layout=compact" alt="siddharth25pandey" /></p>
  <br>
- 
-![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddharth25pandey.siddharth25pandey)
+
 
 
