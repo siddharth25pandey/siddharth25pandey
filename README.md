@@ -1,74 +1,38 @@
 
  [![Header](https://github.com/siddharth25pandey/siddharth25pandey/blob/master/SIDDHARTH%20PANDEY.png "Header")](https://siddharth25pandey.github.io/)
- <p align="center">
- <h2 align="center">Profile</h2>
+ <h1 align="center">Hi 👋, I'm Siddharth Pandey</h1>
+<h3 align="center">I am a Pre-Final Year Student at Indian Institute of Information Technology, SriCity currently undertaking my Bachelors in Computer Science and Engineering. I was the Data Science Intern at Numyard and Machine Learning Engineer at Omdena. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth25pandey" alt="siddharth25pandey" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/siddharth_iiit" target="blank"><img src="https://img.shields.io/twitter/follow/siddharth_iiit?logo=twitter&style=for-the-badge" alt="siddharth_iiit" /></a> </p>
+
+- 🌱 I’m currently learning **React, Nodejs, GCP**
+
+- 📫 How to reach me **siddharth25pandey@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/siddharth25pandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="siddharth25pandey" height="30" width="40" /></a>
+<a href="https://twitter.com/siddharth_iiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="siddharth_iiit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/siddharth25pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="siddharth25pandey" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/siddharth_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddharth_25" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/siddharth25pand1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="siddharth25pand1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/siddharth_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="siddharth_25" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sid_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="sid_25" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/siddharth1616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="siddharth1616" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/siddharth_25/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="siddharth_25/profile" height="30" width="40" /></a>
 </p>
 
-## Hello Folks 👋I am [Siddharth Pandey](https://siddharth25pandey.github.io)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/siddharth25pandey/)
-  <a href="mailto:siddharth25pandey@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
-  <a href="https://dev.to/siddharth25pandey">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="SIDDHARTH PANDEY's DEV Profile" width="5%">
-</a>
-### I am a Sophomore at [Indian Institute of Information Technology,Sri City](http://www.iiits.ac.in), India
-### Currently I am focussed on Competitive Coding, Data Science, ML & Full-Stack Web Development
-### My Coding Platforms
-<a href="https://codeforces.com/profile/siddharth_25"><img src="https://sta.codeforces.com/s/17425/images/codeforces-logo-with-telegram.png" alt="Smiley face" height="100" width="100"></a>
-<a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="100">
- <a href="https://www.hackerrank.com/siddharth25pand1"><img src="https://s3.amazonaws.com/sr-marketplace-prod/wp-content/uploads/2015/08/hackerrank.jpg" alt="Smiley face" height ="100" width="100"></a>
- <a href="https://app.codesignal.com/profile/siddharth166"><img src="https://codesignal.com/wp-content/uploads/2020/11/CoodeSignal_Logo_Long_Blue.svg" alt="Smiley face" height="100" width="100"></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
- ### My Blog
- <a href="https://sid293571351.wordpress.com"><img src="https://sid293571351.files.wordpress.com/2020/05/cropped-sidblog-logo.png" alt="Smiley face" height ="100" width="100"></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth25pandey&show_icons=true&locale=en&layout=compact" alt="siddharth25pandey" /></p>
 
-  
-## ⚡ Technologies
-![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
-![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharth25pandey&show_icons=true&locale=en" alt="siddharth25pandey" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth25pandey&" alt="siddharth25pandey" /></p>
 
-
-### My profile overview: 
- 
-<a href="https://github.com/siddharth25pandey/siddharth25pandey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharth25pandey&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Siddharth's GitHub Stats" />
-  <br>
- <br>
-<a href="https://github.com/siddharth25pandey/siddharth25pandey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth25pandey&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-</a>
-
-<br>
-<br>
- 
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddharth25pandey.siddharth25pandey)
 
-<!--
-**siddharth25pandey/siddharth25pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
