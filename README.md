@@ -9,11 +9,10 @@
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddharth25pandey.siddharth25pandey)
 
 <h3 align="left"> 📫 Connect with me:</h3>
- <p align="left">
- <a href="mailto:siddharth25pandey@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </a>
- <a href="ttps://www.linkedin.com/in/siddharth25pandey/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/> </a>
- <a href="https://dev.to/siddharth25pandey">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="SIDDHARTH PANDEY's DEV Profile" width="5%">
+ <p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/siddharth25pandey/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/siddharth_iiit"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:siddharth25pandey@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <p align="left"> <a href="https://twitter.com/siddharth_iiit" target="blank"><img src="https://img.shields.io/twitter/follow/siddharth_iiit?logo=twitter&style=for-the-badge" alt="siddharth_iiit" /></a> </p>
 <a href="https://codeforces.com/profile/siddharth_25"><img src="https://sta.codeforces.com/s/17425/images/codeforces-logo-with-telegram.png" alt="Smiley face" height="100" width="100"></a>
 <a href="https://www.codechef.com/users/siddharth_25"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="100">
