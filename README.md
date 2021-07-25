@@ -2,7 +2,7 @@
  [![Header](https://github.com/siddharth25pandey/siddharth25pandey/blob/master/SIDDHARTH%20PANDEY.png "Header")](https://siddharth25pandey.github.io/)
  <h1 align="center">Hi 👋, I'm Siddharth Pandey</h1>
 <h3 align="center">Computer Science Undergraduate at IIIT SriCity with strong interest in Web Technologies and having better understanding of Data Structures and Algorithms.
-Hard-working , energetic and technical-minded individual . Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly.
+Hard-working , energetic and technical-minded individual . Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly.<br/>
 Past Experiences: Previously worked as Data Science Intern at Numyard, AugrayXR and ML Engineer at Omdena and TCW intern at GFG.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth25pandey" alt="siddharth25pandey" /></a> </p>
