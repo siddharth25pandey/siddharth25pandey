@@ -1,7 +1,9 @@
 
  [![Header](https://github.com/siddharth25pandey/siddharth25pandey/blob/master/SIDDHARTH%20PANDEY.png "Header")](https://siddharth25pandey.github.io/)
  <h1 align="center">Hi 👋, I'm Siddharth Pandey</h1>
-<h3 align="center">I am a Pre-Final Year Student at <a href="http://www.iiits.ac.in">Indian Institute of Information Technology</a>, SriCity currently undertaking my Bachelor's in Computer Science and Engineering. I was the Data Science Intern at Numyard and Machine Learning Engineer at Omdena. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies.</h3>
+<h3 align="center">Computer Science Undergraduate at IIIT SriCity with strong interest in Web Technologies and having better understanding of Data Structures and Algorithms.
+Hard-working , energetic and technical-minded individual . Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly.
+Past Experiences: Previously worked as Data Science Intern at Numyard, AugrayXR and ML Engineer at Omdena and TCW intern at GFG.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth25pandey" alt="siddharth25pandey" /></a> </p>
 <br>
