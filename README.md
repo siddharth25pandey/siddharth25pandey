@@ -2,7 +2,7 @@
  [![Header](https://github.com/siddharth25pandey/siddharth25pandey/blob/master/SIDDHARTH%20PANDEY.png "Header")](https://siddharth25pandey.github.io/)
  <h1 align="center">Hi 👋, I'm Siddharth Pandey</h1>
 <h3 align="center">A third year undergraduate, pursuing B-Tech in CSE from IIIT Sri City with strong knowledge in Web Technologies and having better understanding of Data Structures and Algorithms. Apart from that also having a keen interest in Data Science and ML.
-A Hard-working , energetic and technical-minded individual . Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly.
+A Hard-working , energetic and technical-minded individual, Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly.
  <br>
 Past Experiences: Previously worked as Data Science Intern at Numyard, AugrayXr, ML Engineer at Omdena and TCW intern at GFG.</h3>
 
