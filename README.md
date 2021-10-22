@@ -4,7 +4,7 @@
 <h3 align="center">A third year undergraduate, pursuing B-Tech in CSE from IIIT Sri City with strong knowledge in Data Structures and Algorithms and having better understanding of Web Technologies. Also, having a keen interest in Data Science and ML.
 A Hard-working , energetic and technical-minded individual, Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly.
  <br>
-Past Experiences: Previously worked as Data Science Intern at Numyard, AugrayXr, ML Engineer at Omdena and TCW intern at GFG.</h3>
+Past Experiences: Previously worked as Full Stack Developer at Omdena, Data Science Intern at Numyard, AugrayXr, ML Engineer at Omdena and TCW intern at GFG.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth25pandey" alt="siddharth25pandey" /></a> </p>
 <br>
