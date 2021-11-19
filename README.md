@@ -6,6 +6,9 @@ A Hard-working , energetic and technical-minded individual, Possess exceptional 
  <br>
 Past Experiences: Previously worked as Full Stack Developer at Omdena, Data Science Intern at Numyard, AugrayXr, ML Engineer at Omdena and TCW intern at GFG.</h3>
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=siddharth25pandey&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth25pandey" alt="siddharth25pandey" /></a> </p>
 <br>
  
