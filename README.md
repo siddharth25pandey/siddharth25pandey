@@ -1,5 +1,3 @@
-
- [![Header](https://github.com/siddharth25pandey/siddharth25pandey/blob/master/SIDDHARTH%20PANDEY.png "Header")](https://siddharth25pandey.github.io/)
  
 ![CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=siddharth25pandey)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth25pandey" alt="siddharth25pandey" /></a> </p>
