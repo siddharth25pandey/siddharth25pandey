@@ -1,14 +1,7 @@
 
  [![Header](https://github.com/siddharth25pandey/siddharth25pandey/blob/master/SIDDHARTH%20PANDEY.png "Header")](https://siddharth25pandey.github.io/)
- <h1 align="center">Hi 👋, I'm Siddharth Pandey</h1>
-<h3 align="center">A third year undergraduate, pursuing B-Tech in CSE from IIIT Sri City with strong knowledge in Data Structures and Algorithms and having better understanding of Web Technologies. Also, having a keen interest in Data Science and ML.
-A Hard-working , energetic and technical-minded individual, Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly.
- <br>
-Past Experiences: Previously worked as Full Stack Developer at Omdena, Data Science Intern at Numyard, AugrayXr, ML Engineer at Omdena and TCW intern at GFG.</h3>
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=siddharth25pandey&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+ 
+![CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=siddharth25pandey)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth25pandey" alt="siddharth25pandey" /></a> </p>
 <br>
  
