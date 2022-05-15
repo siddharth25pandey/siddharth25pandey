@@ -34,7 +34,8 @@
  <br>
  
  <br>
- ![Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharth25pandey&theme=solarized_dark)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharth25pandey&theme=solarized_dark)
 
  <br>
 
