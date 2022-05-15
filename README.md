@@ -32,6 +32,9 @@
  <br>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth25pandey&show_icons=true&locale=en&layout=compact" alt="siddharth25pandey" /></p>
  <br>
+ 
+ <br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharth25pandey&theme=solarized_dark)
 
-
+ <br>
 
