@@ -2,7 +2,7 @@
 ![CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=siddharth25pandey)
 
 <br>
-<div>A third year undergrad, pursuing B-Tech in CSE from IIIT Sri City. Seeking a challenging career with a progressive organization that provides an opportunity to ameliorate my technical skills and abilities in the field of Computer Science.</div>
+<div>A final year undergrad, pursuing B-Tech in CSE from IIIT Sri City. Seeking a challenging career with a progressive organization that provides an opportunity to ameliorate my technical skills and abilities in the field of Computer Science.</div>
 <br>
  
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddharth25pandey.siddharth25pandey)
