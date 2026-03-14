@@ -2,7 +2,12 @@
 ![CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=siddharth25pandey)
 
 <br>
-<div>A final year undergrad, pursuing B-Tech in CSE from IIIT Sri City. Seeking a challenging career with a progressive organization that provides an opportunity to ameliorate my technical skills and abilities in the field of Computer Science.</div>
+<div>X
+achievements or previous job experiences.
+Software Engineer at Deutsche Bank (Berlin, TDI - TFL dbLimits Exposure Management) within Infrastructure & Corporate Banking, building scalable, high-performance backend systems that power critical financial workflows.
+I design and develop distributed microservices using Java and Spring Boot, focusing on reliability, performance, and clean architecture. My work involves building secure, production-grade systems in highly regulated environments, optimizing Oracle SQL queries for performance at scale, and deploying containerized workloads on OpenShift.
+I take ownership across the full development lifecycle
+— from requirement analysis and system design to implementation, deployment, monitoring, and continuous improvement</div>
 <br>
  
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddharth25pandey.siddharth25pandey)
