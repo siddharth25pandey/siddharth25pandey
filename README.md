@@ -2,8 +2,7 @@
 ![CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=siddharth25pandey)
 
 <br>
-<div>X
-achievements or previous job experiences.
+<div>
 Software Engineer at Deutsche Bank (Berlin, TDI - TFL dbLimits Exposure Management) within Infrastructure & Corporate Banking, building scalable, high-performance backend systems that power critical financial workflows.
 I design and develop distributed microservices using Java and Spring Boot, focusing on reliability, performance, and clean architecture. My work involves building secure, production-grade systems in highly regulated environments, optimizing Oracle SQL queries for performance at scale, and deploying containerized workloads on OpenShift.
 I take ownership across the full development lifecycle
